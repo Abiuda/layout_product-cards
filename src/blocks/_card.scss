@@ -76,10 +76,10 @@
     text-transform: uppercase;
 
     background-color: $main-color;
-  }
 
-  &__buy:hover {
-    color: $main-color;
-    background-color: $background-color;
+    &:hover {
+      color: $main-color;
+      background-color: $background-color;
+    }
   }
 }
